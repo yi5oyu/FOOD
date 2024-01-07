@@ -37,7 +37,7 @@ Java와 Spring 프레임워크, Oracle DB를 활용한 레시피 작성/등록 �
 
 <h4><i>[고도화 계획]</i></h4>
 
-Java ORM 기술(JPA) 도입, (네이버, 카카오 등..)API으로 로그인 / 회원가입 기능 추가 / 공공기관 API 활용, Interceptor, filter와 같은 AOP 적용, 게시판 페이지 정렬 / 검색 기능 추가 <br>
+Java ORM 기술(JPA) 도입, (네이버, 카카오 등..)API으로 로그인 / 회원가입 기능 추가 / 공공기관 API 활용, Interceptor, filter와 같은 AOP 적용, 게시판 페이지 정렬 / 검색 기능 추가, AWS EC2 / RDS 배포 <br>
 <br>
 <br>
 
