@@ -111,7 +111,7 @@ Java ORM 기술(JPA) 도입, (네이버, 카카오 등..)API로 로그인 회원
 GET 댓글 전체 조회 : reciid(필수)<br>
 &nbsp; 조회된 JSON 데이터 AJAX로 페이지에 호출<br>
 POST 댓글 등록 : comment_id(필수), comment_text(필수), reciid(필수), uname(필수)<br>
-&nbsp; comment_id -> 생성된 parentcomment_id가 됨
+&nbsp; comment_id -> 생성된 parentcomment_id가 됨<br>
 PUT 댓글 수정 : comment_id(필수), comment_text(필수), reciid(필수)<br>
 DELETE 댓글 삭제 : comment_id(필수), reciid(필수)<br>
 <br>
